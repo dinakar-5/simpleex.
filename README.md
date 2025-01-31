@@ -1,3 +1,2 @@
 # simpleex.
-am_dinakar
-hello!
+hello! am_dinakar
